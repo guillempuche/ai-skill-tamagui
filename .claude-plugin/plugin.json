@@ -1,0 +1,13 @@
+{
+  "name": "ai-skill-tamagui",
+  "version": "1.0.0",
+  "description": "Universal React + React Native UI library with optimizing compiler. Use when building cross-platform apps with shared styling, design tokens, themes, and accessible components.",
+  "author": {
+    "name": "guillempuche",
+    "url": "https://github.com/guillempuche"
+  },
+  "homepage": "https://github.com/guillempuche/ai-skill-tamagui",
+  "repository": "https://github.com/guillempuche/ai-skill-tamagui",
+  "license": "MIT",
+  "skills": "./skills/"
+}
