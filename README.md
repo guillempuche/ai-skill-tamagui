@@ -5,11 +5,11 @@ Universal React + React Native UI library with optimizing compiler. Use when bui
 ## Install
 
 ```bash
-# Add marketplace
+# Add marketplace (uses repo slug)
 /plugin marketplace add guillempuche/ai-skill-tamagui
 
-# Install plugin
-/plugin install ai-skill-tamagui@guillempuche-ai-skill-tamagui
+# Install plugin (plugin name is topic-only)
+/plugin install tamagui@guillempuche-ai-skill-tamagui
 ```
 
 ## Part of AI Standards

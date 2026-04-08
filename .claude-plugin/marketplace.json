@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "ai-skill-tamagui",
+      "name": "tamagui",
       "source": "./"
     }
   ]
