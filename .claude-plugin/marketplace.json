@@ -1,5 +1,6 @@
 {
   "name": "ai-skill-tamagui",
+  "description": "Universal React + React Native UI library with optimizing compiler. Use when building cross-platform apps with shared styling, design tokens, themes, and accessible components.",
   "owner": {
     "name": "guillempuche",
     "url": "https://github.com/guillempuche"
@@ -7,7 +8,10 @@
   "plugins": [
     {
       "name": "tamagui",
-      "source": "./"
+      "description": "Universal React + React Native UI library with optimizing compiler. Use when building cross-platform apps with shared styling, design tokens, themes, and accessible components.",
+      "source": "./",
+      "license": "MIT",
+      "homepage": "https://github.com/guillempuche/ai-skill-tamagui"
     }
   ]
 }
