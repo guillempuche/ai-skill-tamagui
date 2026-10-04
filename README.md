@@ -1,6 +1,6 @@
 # ai-skill-tamagui
 
-Universal React + React Native UI library with optimizing compiler. Use when building cross-platform apps with shared styling, design tokens, themes, and accessible components.
+Tamagui styling, themes, tokens, compiler, and UI kit for React and React Native. Use when the project uses or is adopting Tamagui and you are writing or debugging its components, config, or compiler setup.
 
 ## Install
 
