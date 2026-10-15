@@ -1,0 +1,21 @@
+{
+  "name": "ai-skill-tamagui",
+  "interface": {
+    "displayName": "ai-skill-tamagui"
+  },
+  "plugins": [
+    {
+      "name": "tamagui",
+      "description": "Tamagui styling, themes, tokens, compiler, and UI kit for React and React Native. Use when the project uses or is adopting Tamagui and you are writing or debugging its components, config, or compiler setup.",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

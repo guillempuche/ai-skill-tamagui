@@ -12,6 +12,13 @@ The [`skills`](https://github.com/vercel-labs/skills) CLI installs into Codex, O
 npx skills add guillempuche/ai-skill-tamagui
 ```
 
+### Codex CLI
+
+```bash
+codex plugin marketplace add guillempuche/ai-skill-tamagui
+codex plugin add tamagui@ai-skill-tamagui
+```
+
 ### Claude Code
 
 ```bash
@@ -26,6 +33,12 @@ npx skills add guillempuche/ai-skill-tamagui
 
 ```bash
 gemini skills install https://github.com/guillempuche/ai-skill-tamagui.git --path skills/tamagui
+```
+
+### Antigravity
+
+```bash
+agy plugin install https://github.com/guillempuche/ai-skill-tamagui
 ```
 
 ### Manual
